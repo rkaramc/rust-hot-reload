@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "EditorConfig.EditorConfig",
+        "swellaby.rust-pack",
+        "swellaby.vscode-rust-test-adapter",
+    ]
+}
