@@ -3,5 +3,6 @@
         "EditorConfig.EditorConfig",
         "swellaby.rust-pack",
         "swellaby.vscode-rust-test-adapter",
+        "vadimcn.vscode-lldb"
     ]
 }
